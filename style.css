@@ -63,7 +63,7 @@ main{
 .card-front{
     z-index: 2;
     margin-top: 4rem;
-    box-shadow: 16px 15px 20px 30px rgba(222,221,223,0.75);
+    box-shadow: 7px 0px 8px 5px rgba(222,221,223,0.35);
 
 }
 .card-front_logo{
